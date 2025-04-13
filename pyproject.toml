@@ -10,11 +10,11 @@ include = ["bdayr"]
 
 [project]
 name = "bdayr"
-version = "1.0.1"
+version = "1.0.2"
 authors = [
   { name="William B", email="willdev2025@outlook.com" },
 ]
-description = "A Python3 Currency Converter using Stocks"
+description = "Read ics calendars with event name and mm/dd"
 readme = "README.md"
 classifiers = [
     "Programming Language :: Python :: 3",
